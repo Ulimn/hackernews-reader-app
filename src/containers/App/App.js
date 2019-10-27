@@ -1,7 +1,7 @@
 import React from 'react';
 import News from '../News/News'
 import NewsView from '../NewsView/NewsView'
-import { Route } from "react-router-dom";
+import {Route} from "react-router-dom";
 import './App.css';
 import Page from "../Page/Page";
 
