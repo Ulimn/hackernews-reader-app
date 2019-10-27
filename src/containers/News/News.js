@@ -1,4 +1,4 @@
-import React, { Component } from 'react'
+import React, {Component} from 'react'
 import withNews from '../../hoc/withNews';
 import NewsItem from '../../components/NewsItems/NewsItem';
 import "./News.css";
